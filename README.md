@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mary Jhoy Baselisco
 - 👀 I’m interested about Internet of Things.
-- 🌱 I’m currently learning how to code through FreeCodeCamp.
+- 🌱 I’m currently learning how to code C, Java, C#
 - 💞️ I’m looking to collaborate on amazing projects.
 - 📫 Reach me through email: mbaselisco@gmail.com
 
